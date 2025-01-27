@@ -1,6 +1,7 @@
-# coding problems and solution
 
-Welcome to my repository of 🚀 This repository contains my personal solutions to various coding problems, organized by difficulty. These solutions are written in [your programming language(s) C++, Java].
+# Coding Problems and Solutions
+
+Welcome to my repository! 🚀 This repository contains my personal solutions to various coding problems, organized by difficulty. These solutions are written in **C++** and **Java**.
 
 ## 📂 Repository Structure
 
@@ -21,12 +22,6 @@ The repository is organized as follows:
 
 Each solution is divided into `Easy`, `Medium`, and `Hard` problems, and files are named using the format `<problem-name>.<extension>` for easy identification.
 
-## 🛠️ Features
-
-- **Solutions by Topic:** Problems are categorized by topics such as Sliding Window, Dynamic Programming, etc.
-- **Solutions by Difficulty:** Within each topic, problems are further divided into `Easy`, `Medium`, and `Hard`.
-- **Continuous Updates:** This repository will be regularly updated as I solve more problems.
-
 ## 🚀 How to Use
 
 1. Clone the repository:
@@ -45,8 +40,6 @@ Each solution is divided into `Easy`, `Medium`, and `Hard` problems, and files a
 - **Dynamic Programming**
 - **Backtracking**
 - **Greedy Algorithms**
-- **Graph**
-- **Tree**
 - **Sorting and Searching**
 - And many more...
 
