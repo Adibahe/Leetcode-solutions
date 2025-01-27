@@ -1,6 +1,6 @@
-# LeetCode Solutions by Aditya Bahe
+# coding problems and solution
 
-Welcome to my repository of LeetCode solutions! 🚀 This repository contains my personal solutions to various LeetCode problems, organized by topic and difficulty. These solutions are written in [your programming language(s) C++, Java].
+Welcome to my repository of 🚀 This repository contains my personal solutions to various coding problems, organized by topic and difficulty. These solutions are written in [your programming language(s) C++, Java].
 
 ## 📂 Repository Structure
 
@@ -30,7 +30,7 @@ The repository is organized as follows:
 ├── README.md
 ```
 
-Each topic folder contains subfolders for `Easy`, `Medium`, and `Hard` problems, and files are named using the format `problem_<number>_<problem-name>.<extension>` for easy identification.
+Each topic folder contains subfolders for `Easy`, `Medium`, and `Hard` problems, and files are named using the format `<problem-name>.<extension>` for easy identification.
 
 ## 🛠️ Features
 
@@ -42,8 +42,8 @@ Each topic folder contains subfolders for `Easy`, `Medium`, and `Hard` problems,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/leetcode-solutions.git
-   cd leetcode-solutions
+   git clone https://github.com/your-username/coding-problems.git
+   cd coding-problems
    ```
 
 2. Navigate to the desired topic and difficulty level to open the solution file for the problem you're interested in.
