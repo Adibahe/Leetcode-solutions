@@ -1,3 +1,13 @@
+#include <iostream>
+#include <vector>
+#include <iostream>
+#include <string>
+#include <algorithm>
+#include <map>
+#include <set>
+
+using namespace std;
+
 class Solution {
 public:
     bool wordPattern(string pattern, string s) {
